@@ -1,5 +1,4 @@
 # life
-test
 
 This version is the one used for the arxiv.org paper:
 
